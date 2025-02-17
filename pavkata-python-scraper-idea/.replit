@@ -1,0 +1,11 @@
+run = "bash run.sh"
+language = "python3"
+entrypoint = "app/main.py"
+hidden = [".config", "playwright-log.txt"]
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "bash run.sh"]
+deploymentTarget = "cloud"

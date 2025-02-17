@@ -1,0 +1,6 @@
+fastapi>=0.68.0
+uvicorn[standard]>=0.15.0
+redis>=4.5.0
+crawl4ai==0.4.248
+pydantic>=1.8.0
+python-dotenv>=0.19.0

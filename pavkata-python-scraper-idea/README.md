@@ -1,4 +1,4 @@
-# THIS BELOW IS ONLY THE EXCERCISE DESCRIPTION! MY NOTES AND DOCS CAN BE FOUND [▶️ HERE! ⬅️ ⚠️ *(click me)* ⚠️](https://github.com/gerryjekova/pavkata-python-scraper-idea/blob/main/Gerry.md)
+# THIS BELOW IS ONLY THE EXCERCISE DESCRIPTION! I hated every second of this :D 
 
 # Advanced AI News Scraper – Developer Assignment
 
